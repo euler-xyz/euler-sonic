@@ -1,0 +1,5 @@
+openzeppelin-contracts-upgradeable/=lib/evk-periphery/lib/openzeppelin-contracts-upgradeable/contracts/
+ethereum-vault-connector/=lib/euler-vault-kit/lib/ethereum-vault-connector/src
+evk/=lib/euler-vault-kit/src/
+epo/=lib/euler-price-oracle/src/
+evk-periphery/=lib/evk-periphery/src/
